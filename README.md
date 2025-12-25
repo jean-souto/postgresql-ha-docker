@@ -193,6 +193,10 @@ Expected results:
     └── wait-for-healthy.sh
 ```
 
+### Acknowledgments
+
+This project was developed with the assistance of [Claude Code](https://claude.ai/).
+
 ### License
 
 This project is licensed under the MIT License.
@@ -387,6 +391,10 @@ Resultados esperados:
     ├── health-check.sh
     └── wait-for-healthy.sh
 ```
+
+### Agradecimentos
+
+Este projeto foi desenvolvido com a assistência do [Claude Code](https://claude.ai/).
 
 ### Licença
 

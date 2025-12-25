@@ -9,7 +9,7 @@
 
 All notable changes to this project are documented in this file.
 
-### [1.0.0] - 2024-12-24
+### [1.0.0] - 2025-01-01
 
 #### Initial Release
 
@@ -221,7 +221,7 @@ After all fixes were applied:
 
 Todas as mudanças notáveis neste projeto estão documentadas neste arquivo.
 
-### [1.0.0] - 2024-12-24
+### [1.0.0] - 2025-01-01
 
 #### Release Inicial
 
