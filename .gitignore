@@ -1,0 +1,24 @@
+# Environment files
+.env
+CLAUDE.md
+
+# Demo scripts (local only)
+scripts/demo-*.ps1
+scripts/insert-loop.ps1
+scripts/chaos-test.ps1
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker volumes (if mounted locally)
+data/
+
+# Logs
+*.log
